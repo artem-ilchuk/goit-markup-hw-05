@@ -751,7 +751,6 @@ img {
 
 .modal-field-checkbox {
   display: inline-flex;
-  border: none;
   margin-bottom: 24px;
 }
 
@@ -787,7 +786,7 @@ img {
 .modal-checkbox:checked + .modal-checkbox-text > .custom-checkbox {
   border-radius: 2px;
   background-color: #404bbf;
-  border: 1px solid #404bbf;
+  border: none;
   fill: #f4f4fd;
 }
 
